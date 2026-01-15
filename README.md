@@ -5,7 +5,7 @@
 Este projeto foi além do escopo inicial proposto em curso, recebendo funcionalidades exclusivas de engenharia de dados e uma interface moderna totalmente responsiva.
 
 ## 🔗 Demonstração
-> **Clique aqui para acessar o projeto:** [(https://rafael-gtavares.github.io/pautaDoDia/)]
+> **Clique aqui para acessar o projeto:** https://rafael-gtavares.github.io/pautaDoDia/
 
 ## 🚀 Funcionalidades e Diferenciais Técnicos
 
