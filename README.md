@@ -26,7 +26,7 @@ Desenvolvido por **Rafael Tavares**
 
 ## 🔗 Links
 
-* **Deploy do projeto:** https://rafael-gtavares.github.io/tecladoMusical/
+* **Deploy do projeto:** https://rafael-gtavares.github.io/pautaDoDia/
 * **Meu LinkedIn:** www.linkedin.com/in/rafael-tavares2008
 
 > *Projeto inspirado no curso de armazenamento de dados da Alura, mas reconstruído com foco em escalabilidade e experiência do usuário (UX).*
