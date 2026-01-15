@@ -5,7 +5,7 @@
 Este projeto foi além do escopo inicial proposto em curso, recebendo funcionalidades exclusivas de engenharia de dados e uma interface moderna totalmente responsiva.
 
 ## 🔗 Demonstração
-> **Clique aqui para acessar o projeto:** [COLE O LINK DO SEU DEPLOY AQUI]
+> **Clique aqui para acessar o projeto:** [(https://rafael-gtavares.github.io/pautaDoDia/)]
 
 ## 🚀 Funcionalidades e Diferenciais Técnicos
 
@@ -24,6 +24,7 @@ Este projeto foi além do escopo inicial proposto em curso, recebendo funcionali
 ---
 
 ## 👨‍💻 Autor
-Desenvolvido por **Rafael Tavares** [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-tavares2008)
+Desenvolvido por **Rafael Tavares** 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-tavares2008)
 
 > *Projeto inspirado no curso de armazenamento de dados da Alura, mas reconstruído com foco em escalabilidade e experiência do usuário (UX).*
