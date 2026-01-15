@@ -14,6 +14,8 @@ Este projeto foi além do escopo inicial proposto em curso, recebendo funcionali
 - **Mobile First:** Interface totalmente otimizada e responsiva para computadores, tablets e smartphones.
 - **Implementação de Interface (CSS Art):** Estilização avançada para criar elementos visuais (como o ícone da agenda) diretamente via código, eliminando a dependência de imagens externas e otimizando o carregamento da página.
 
+---
+
 ## 🛠️ Tecnologias Utilizadas
 - **HTML5:** Estrutura semântica e acessível.
 - **CSS3:** Flexbox, Grid, Animações e CSS Art.
@@ -23,6 +25,8 @@ Este projeto foi além do escopo inicial proposto em curso, recebendo funcionali
 
 ## 👨‍💻 Autor
 Desenvolvido por **Rafael Tavares** 
+
+---
 
 ## 🔗 Links
 
