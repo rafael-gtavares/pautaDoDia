@@ -81,6 +81,13 @@ body {
     filter: drop-shadow(2px 2px 1px rgba(0,0,0,0.2));
 }
 
+.input {
+    color: #000;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: var(--fonte-padrao);
+}
+
 .adicionar {
     width: 100%;
 }
